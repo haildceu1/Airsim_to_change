@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "chrono": "cpp",
+        "codecvt": "cpp",
+        "xlocale": "cpp"
+    }
+}
